@@ -1,2 +1,1 @@
 # egriboz
-Fatih Eğriboz

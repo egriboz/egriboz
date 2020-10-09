@@ -6,5 +6,5 @@
 
 
 
-![Visits Badge](https://badges.pufler.dev/visits/egriboz/egriboz)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/egriboz/egriboz) ![Years Badge](https://badges.pufler.dev/years/egriboz) -->
 

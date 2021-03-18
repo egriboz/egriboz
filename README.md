@@ -1,6 +1,6 @@
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;"> 
 
-![egriboz's GitHub stats](https://github-readme-stats.vercel.app/api?username=egriboz&hide=contribs,prs)
+[![egriboz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egriboz)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egriboz" alt="egriboz" /> </p>
 

@@ -13,6 +13,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egriboz&layout=compact&hide_border=true)](https://github.com/egriboz/github-readme-stats)	
  -->
 
-
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/egriboz/egriboz) ![Years Badge](https://badges.pufler.dev/years/egriboz) -->
-
